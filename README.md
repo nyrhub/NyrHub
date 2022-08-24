@@ -5,6 +5,7 @@ I'm a C# programmer.
 <img align="left" src="https://raw.github.com/github/explore/597bebe80fb0066a1a125416dce1d933cbfd0856/topics/dotnet/dotnet.png" width="25" height="25" />
 <img align="left" src="https://raw.github.com/github/explore/main/topics/unity/unity.png" width="25" height="25" />
 <br />
+
 - 🔭 I’m currently working on: BPAZ, Dogeclicker, (Ci...t?), (K..n?), NML?, and my Portefolio
 - 📫 Discord: (nyr#4408)
 - ⚡ Fun fact: I love garfield
