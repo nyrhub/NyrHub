@@ -8,7 +8,7 @@ I'm a C#, html/css and javascript programmer.
 <br>
 <br>
 
-- 🔭 I’m currently working on: BPAZ, Dogeclicker, (Ci...t?), (K..n?), NML?, and my Portefolio
+- 🔭 I’m currently working on: BPAZ, Dogeclicker, NML, (Ci...t?), (K..n?) and my Portefolio
 - 📫 Discord: (nyr#4408)
 - ⚡ Fun fact: I love garfield
 
