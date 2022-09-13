@@ -8,7 +8,7 @@ I'm a C# and front-end developer.
 <br>
 
 - 🔭 I’m currently working on: BPAZ, Dogeclicker, NML, (Ci...t?), (K..n?) and ??? and my Portefolio
-- 📫 Discord: (nyr2#5526)
+- 📫 Discord: nyr2#5526
 - ⚡ Fun fact: I love garfield
 
 Currently learning blockchain development. (why not create my own blockchain entirely in c#?)
