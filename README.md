@@ -11,7 +11,7 @@ I'm a C# and front-end developer.
 - 📫 Discord: nyr2#5526
 - ⚡ Fun fact: I love garfield
 
-Currently learning blockchain development, machine learning and quantum (q#).
+Currently learning blockchain development and machine learning.
 
 If you want to take an order please add me on discord or do it via my portfolio (which is not yet available..) !
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nyrhub"/> </p>
