@@ -12,6 +12,7 @@ I'm a C# and front-end developer.
 - ⚡ Fun fact: I love garfield
 
 Currently learning java and AI.
+Also currently I am developing a html/css javascript IDE.
 
 If you want to take an order please add me on discord or do it via my portfolio (which is not yet available..) !
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nyrhub"/> </p>
