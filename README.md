@@ -11,7 +11,7 @@ I'm a C# and front-end developer.
 - 📫 Discord: nyr2#5526
 - ⚡ Fun fact: I love garfield
 
-Currently learning java and AI.
+Currently learning reverse engineering and I deepen the memory hacking.
 Also currently I am developing a html/css javascript IDE.
 
 If you want to take an order please add me on discord or do it via my portfolio (which is not yet available..) !
