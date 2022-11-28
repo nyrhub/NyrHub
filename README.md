@@ -7,11 +7,6 @@ I'm a C# and front-end developer.
 <br>
 <br>
 
-- 🔭 I’m currently working on: TOO MUCH PROJECT DAMN TOO MUCH REALLY
-- 📫 Discord: nyr2#5526
-- ⚡ Fun fact: I love garfield
+Currently learning ASM and JavaScript.
 
-Currently learning ASM.
-
-If you want to take an order please add me on discord or do it via my portfolio (which is not yet available..) !
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nyrhub"/> </p>
