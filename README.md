@@ -7,6 +7,6 @@ I'm a C# and front-end developer.
 <br>
 <br>
 
-Currently learning ASM and JavaScript.
+Currently learning ASM, Java and JavaScript.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nyrhub"/> </p>
